@@ -1,4 +1,4 @@
-# Boot-Jira-Integration
+# Bot-Jira-Integration
 The project for Error Handling Bot with Jira Integration and Email Notification aims to facilitate the process of monitoring and handling errors in the system.
 
 ## Description
